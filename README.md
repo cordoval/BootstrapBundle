@@ -1,6 +1,6 @@
 # Symfony2 Bootstrap Bundle v1.2.0
 
-A Symfony2 Bundle for using the bootstrap CSS from twitter.
+A [Symfony2](http://symfony.com) Bundle for using the [bootstrap CSS](http://twitter.github.com/bootstrap) from twitter.
 
 ## Installation ##
 
@@ -21,3 +21,12 @@ Add the autoload paths to your bundles in AppKernel.php
 ## Usage ##
 
 Coming soon.
+
+## To Do List ##
+
+- Improve HTML5 base template using HTML5 Boilerplate.
+- Add Modernizr and jQuery fallbacks.
+- Work out if putting this in the `vendor/bundles` directory is the right way to go. 
+- Other git/symfony noob fixes I imagine.
+
+Inspired by Flint's [HTML5 Boilerplate bundle](https://github.com/FlintLabs/H5BP-Symfony2-Bundle)

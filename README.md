@@ -26,7 +26,7 @@ Coming soon.
 
 - Improve HTML5 base template using HTML5 Boilerplate.
 - Add Modernizr and jQuery fallbacks.
-- -Work out if putting this in the `vendor/bundles` directory is the right way to go.- It's how FOS and some others do it.
+- <del>Work out if putting this in the `vendor/bundles` directory is the right way to go.</del><br/> It's how FOS and some others do it.
 - Work out using assettic to directly process the LESS files.
 - Other git/symfony noob fixes I imagine.
 
